@@ -1,7 +1,5 @@
-Name: <Your name here>
+Name: Pidove
 
-Unresolved Issues: Place your unresolved issues here. Include things you tried to resolve them. 
+Unresolved Issues: No unresolved issue encountered. 
 
-Notes: The more concise and detailed the notes, the better the grade.  
-
-###
+Notes: After editing out comment markers, program compiled and ran as expected.
